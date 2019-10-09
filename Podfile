@@ -7,8 +7,7 @@ target 'NY-Times' do
 
   # Pods for NY-Times
 
-    pod 'SDWebImage', '~> 4.0'
-    pod 'ReachabilitySwift'
+    pod 'SDWebImage'
 
   target 'NY-TimesTests' do
     inherit! :search_paths
