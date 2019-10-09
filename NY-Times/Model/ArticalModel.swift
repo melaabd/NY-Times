@@ -14,7 +14,13 @@ struct ArticalsResult:Decodable {
 }
 
 // MARK: - Articale
-struct Articale:Decodable {
+struct Articale:Decodable, Equatable {
+    
+    //for testing perpos
+    static func == (lhs: Articale, rhs: Articale) -> Bool {
+        return lhs.url == rhs.url && lhs.id == rhs.id
+    }
+    
     var url: String?
     var byline, type, title: String?
     var abstract, published_date, source: String?

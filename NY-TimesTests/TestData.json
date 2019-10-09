@@ -1,0 +1,1229 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2019 The New York Times Company.  All Rights Reserved.",
+    "num_results": 1652,
+    "results": [
+        {
+            "url": "https://www.nytimes.com/2019/10/01/opinion/trump-impeachment-2020.html",
+            "adx_keywords": "Trump, Donald J;Presidential Election of 2020;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Corruption (Institutional);Senate;House of Representatives;Republican Party;Democratic Party",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By WILL WILKINSON",
+            "type": "Article",
+            "title": "Trump Has Disqualified Himself From Running in 2020",
+            "abstract": "The president’s brazen attempt at cheating has taken “decide it at the ballot box” off the menu. Impeachment is imperative.",
+            "published_date": "2019-10-01",
+            "source": "The New York Times",
+            "id": 100000006744274,
+            "asset_id": 100000006744274,
+            "views": 1,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2020",
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY"
+            ],
+            "org_facet": [
+                "CORRUPTION (INSTITUTIONAL)",
+                "SENATE",
+                "HOUSE OF REPRESENTATIVES",
+                "REPUBLICAN PARTY",
+                "DEMOCRATIC PARTY"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Mitch McConnell and the other Republicans in the Senate would be the decisive votes on President Trump’s fate if he is formally impeached.",
+                    "copyright": "Anna Moneymaker/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/01/opinion/01wilkinson/01wilkinson-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/01/opinion/01wilkinson/01wilkinson-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/01/opinion/01wilkinson/01wilkinson-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/c4bee0c3-1135-53d2-871a-1d2233d166b7"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/01/us/politics/trump-border-wars.html",
+            "adx_keywords": "Trump, Donald J;Immigration and Emigration;Illegal Immigration;Asylum, Right of;Immigration Detention;Border Barriers;Mexico;United States Politics and Government;Customs and Border Protection (US);Homeland Security Department;McAleenan, Kevin K;Miller, Stephen (1985- );Nielsen, Kirstjen",
+            "column": "Decision Points",
+            "section": "U.S.",
+            "byline": "By MICHAEL D. SHEAR and JULIE HIRSCHFELD DAVIS",
+            "type": "Article",
+            "title": "Shoot Migrants’ Legs, Build Alligator Moat: Behind Trump’s Ideas for Border",
+            "abstract": "Over a frenzied few days in the spring, an internal White House debate led to turnover in staff and a turning point for the president’s immigration agenda.",
+            "published_date": "2019-10-01",
+            "source": "The New York Times",
+            "id": 100000006721909,
+            "asset_id": 100000006721909,
+            "views": 2,
+            "des_facet": [
+                "IMMIGRATION AND EMIGRATION",
+                "ILLEGAL IMMIGRATION",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "ASYLUM, RIGHT OF",
+                "IMMIGRATION DETENTION",
+                "BORDER BARRIERS",
+                "CUSTOMS AND BORDER PROTECTION (US)",
+                "HOMELAND SECURITY DEPARTMENT"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "MCALEENAN, KEVIN K",
+                "MILLER, STEPHEN (1985- )",
+                "NIELSEN, KIRSTJEN"
+            ],
+            "geo_facet": [
+                "MEXICO"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "A Customs and Border Protection boat patrolling the Rio Grande separating Laredo, Tex., from Nuevo Laredo, Mexico.",
+                    "copyright": "Luis Antonio Rojas for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/02/us/politics/00dc-border-02/merlin_157839495_cefd040f-4bdc-45f5-a1fc-3c2259318f40-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/02/us/politics/00dc-border-02/merlin_157839495_cefd040f-4bdc-45f5-a1fc-3c2259318f40-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/02/us/politics/00dc-border-02/merlin_157839495_cefd040f-4bdc-45f5-a1fc-3c2259318f40-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/b5a55f5d-7841-5470-9ff4-43b85b3befa4"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/09/30/us/politics/trump-australia-barr-mueller.html",
+            "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;United States Politics and Government;Presidential Election of 2016;United States International Relations;Justice Department;Barr, William P;Trump, Donald J;Morrison, Scott (1968- );Zelensky, Volodymyr;Australia;Giuliani, Rudolph W;Durham, John H;Papadopoulos, George (1987- );Mifsud, Joseph",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MARK MAZZETTI and KATIE BENNER",
+            "type": "Article",
+            "title": "Trump Pressed Australian Leader to Help Barr Investigate Mueller Inquiry’s Origins",
+            "abstract": "The discussion was another instance of the president using American diplomacy for potential personal gain.",
+            "published_date": "2019-09-30",
+            "source": "The New York Times",
+            "id": 100000006744493,
+            "asset_id": 100000006744493,
+            "views": 3,
+            "des_facet": [
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "PRESIDENTIAL ELECTION OF 2016",
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "JUSTICE DEPARTMENT"
+            ],
+            "per_facet": [
+                "BARR, WILLIAM P",
+                "TRUMP, DONALD J",
+                "MORRISON, SCOTT (1968- )",
+                "ZELENSKY, VOLODYMYR",
+                "GIULIANI, RUDOLPH W",
+                "DURHAM, JOHN H",
+                "PAPADOPOULOS, GEORGE (1987- )",
+                "MIFSUD, JOSEPH"
+            ],
+            "geo_facet": [
+                "AUSTRALIA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Attorney General William P. Barr with President Trump this month at the White House.",
+                    "copyright": "Anna Moneymaker/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/politics/30dc-barr/30dc-barr-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/politics/30dc-barr/30dc-barr-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/politics/30dc-barr/30dc-barr-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/6de8f431-350f-5e06-babb-5fb9bbe9cc30"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/09/30/health/red-meat-heart-cancer.html",
+            "adx_keywords": "Diet and Nutrition;Meat;Beef;Heart;Global Warming;Johnston, Bradley C;Annals of Internal Medicine;Livestock;Cancer;Deaths (Fatalities);American Cancer Society;American Heart Assn;United States;Research",
+            "column": null,
+            "section": "Health",
+            "byline": "By GINA KOLATA",
+            "type": "Article",
+            "title": "Eat Less Red Meat, Scientists Said. Now Some Believe That Was Bad Advice.",
+            "abstract": "The evidence is too weak to justify telling individuals to eat less beef and pork, according to new research. The findings “erode public trust,” critics said.",
+            "published_date": "2019-09-30",
+            "source": "The New York Times",
+            "id": 100000006741113,
+            "asset_id": 100000006741113,
+            "views": 4,
+            "des_facet": [
+                "DIET AND NUTRITION",
+                "MEAT",
+                "RESEARCH"
+            ],
+            "org_facet": [
+                "BEEF",
+                "HEART",
+                "GLOBAL WARMING",
+                "ANNALS OF INTERNAL MEDICINE",
+                "LIVESTOCK",
+                "CANCER",
+                "DEATHS (FATALITIES)",
+                "AMERICAN CANCER SOCIETY",
+                "AMERICAN HEART ASSN"
+            ],
+            "per_facet": [
+                "JOHNSTON, BRADLEY C"
+            ],
+            "geo_facet": [
+                "UNITED STATES"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The health effects of red meat consumption are detectable only in the largest groups, researchers concluded, and advice to individuals to cut back may not be justified by available data.",
+                    "copyright": "Paul J. Richards/Agence France-Presse — Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/science/30MEAT1b/30MEAT1b-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/science/30MEAT1b/30MEAT1b-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/science/30MEAT1b/30MEAT1b-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/8d124a98-d52c-5a65-9660-70b4db0a590b"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/02/us/politics/adam-schiff-whistleblower.html",
+            "adx_keywords": "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;House Committee on Intelligence;Schiff, Adam B;Trump, Donald J;United States Politics and Government;Classified Information and State Secrets;Espionage and Intelligence Services;Central Intelligence Agency;Office of the Director of National Intelligence;Atkinson, Michael K (1964- )",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By JULIAN E. BARNES, MICHAEL S. SCHMIDT and MATTHEW ROSENBERG",
+            "type": "Article",
+            "title": "Schiff Got Early Account of Accusations as Whistle-Blower’s Concerns Grew",
+            "abstract": "Days before filing a whistle-blower complaint, a C.I.A. officer brought a vague version of his accusations to an aide on the House Intelligence Committee.",
+            "published_date": "2019-10-02",
+            "source": "The New York Times",
+            "id": 100000006747650,
+            "asset_id": 100000006747650,
+            "views": 5,
+            "des_facet": [
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "CLASSIFIED INFORMATION AND STATE SECRETS"
+            ],
+            "org_facet": [
+                "HOUSE COMMITTEE ON INTELLIGENCE",
+                "ESPIONAGE AND INTELLIGENCE SERVICES",
+                "CENTRAL INTELLIGENCE AGENCY",
+                "OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE"
+            ],
+            "per_facet": [
+                "SCHIFF, ADAM B",
+                "TRUMP, DONALD J",
+                "ATKINSON, MICHAEL K (1964- )"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Representative Adam B. Schiff, the chairman of the House Intelligence Committee, knew some details of the allegations against President Trump before the C.I.A. officer filed a whistle-blower complaint.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/02/us/politics/02dc-intel/02dc-intel-sub-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/02/us/politics/02dc-intel/merlin_161989173_cb8ca504-d0a9-4233-8cae-96a7a98c53a2-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/02/us/politics/02dc-intel/merlin_161989173_cb8ca504-d0a9-4233-8cae-96a7a98c53a2-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/f2598818-3ba9-56db-bdf5-49aac21f2140"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/03/movies/joker-review.html",
+            "adx_keywords": "Joker (Movie);Phoenix, Joaquin;Phillips, Todd (1970- );Beetz, Zazie;Conroy, Frances;De Niro, Robert;Movies;Violence (Media and Entertainment)",
+            "column": null,
+            "section": "Movies",
+            "byline": "By A.O. SCOTT",
+            "type": "Article",
+            "title": "‘Joker’ Review: Are You Kidding Me?",
+            "abstract": "Todd Phillips’s supervillain origin story starring Joaquin Phoenix is stirring up a fierce debate, but it’s not interesting enough to argue about.",
+            "published_date": "2019-10-03",
+            "source": "The New York Times",
+            "id": 100000006732516,
+            "asset_id": 100000006732516,
+            "views": 6,
+            "des_facet": [
+                "MOVIES",
+                "VIOLENCE (MEDIA AND ENTERTAINMENT)"
+            ],
+            "org_facet": "",
+            "per_facet": [
+                "PHOENIX, JOAQUIN",
+                "PHILLIPS, TODD (1970- )",
+                "BEETZ, ZAZIE",
+                "CONROY, FRANCES",
+                "DE NIRO, ROBERT"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Joaquin Phoenix as the Joker in Todd Phillips&rsquo;s film.",
+                    "copyright": "Warner Bros.",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/05/arts/04Joker-Cover/merlin_161549496_c55020b5-50f8-432b-a141-64fea126a42b-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/05/arts/04Joker-Cover/merlin_161549496_c55020b5-50f8-432b-a141-64fea126a42b-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/05/arts/04Joker-Cover/merlin_161549496_c55020b5-50f8-432b-a141-64fea126a42b-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/9ecbfec5-0966-5e52-aa40-b0f5dc106e66"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/04/us/politics/second-trump-whistleblower.html",
+            "adx_keywords": "Trump, Donald J;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;United States Politics and Government;Ethics and Official Misconduct;United States International Relations;Whistle-Blowers;Inspectors General;Impeachment;House Committee on Intelligence;National Security Council;Zelensky, Volodymyr;Ukraine",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MICHAEL S. SCHMIDT and ADAM GOLDMAN",
+            "type": "Article",
+            "title": "2nd Official Is Weighing Whether to Blow the Whistle on Trump’s Ukraine Dealings",
+            "abstract": "The official, a member of the intelligence community, was interviewed by the inspector general to corroborate the original whistle-blower’s account.",
+            "published_date": "2019-10-04",
+            "source": "The New York Times",
+            "id": 100000006751940,
+            "asset_id": 100000006751940,
+            "views": 7,
+            "des_facet": [
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "ETHICS AND OFFICIAL MISCONDUCT",
+                "UNITED STATES INTERNATIONAL RELATIONS"
+            ],
+            "org_facet": [
+                "WHISTLE-BLOWERS",
+                "INSPECTORS GENERAL",
+                "IMPEACHMENT",
+                "HOUSE COMMITTEE ON INTELLIGENCE",
+                "NATIONAL SECURITY COUNCIL"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "ZELENSKY, VOLODYMYR"
+            ],
+            "geo_facet": [
+                "UKRAINE"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump pressured the president of Ukraine to investigate the son of former Vice President Joseph R. Biden Jr. during a phone call.",
+                    "copyright": "Anna Moneymaker/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/04/us/politics/04dc-second-sub/04dc-second-sub-thumbStandard-v3.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/04/us/politics/04dc-second-sub/04dc-second-sub-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/04/us/politics/04dc-second-sub/04dc-second-sub-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/5686f227-af59-5c2d-a5c5-9f17b000d6e8"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/09/30/world/middleeast/lebanon-hariri-model.html",
+            "adx_keywords": "Politics and Government;Income Tax;Suits and Litigation (Civil);Future Movement (Lebanon);Saudi Oger Ltd;Hariri, Saad;Beirut (Lebanon);Cape Town (South Africa);Lebanon;Seychelles Islands;South Africa",
+            "column": null,
+            "section": "World",
+            "byline": "By BEN HUBBARD",
+            "type": "Article",
+            "title": "Lebanon’s Prime Minister Gave $16 Million to South African Model",
+            "abstract": "Saad Hariri did not make the payments while he was prime minister, South African court records show, but the revelation is likely to tarnish his image.",
+            "published_date": "2019-09-30",
+            "source": "The New York Times",
+            "id": 100000006708978,
+            "asset_id": 100000006708978,
+            "views": 8,
+            "des_facet": [
+                "POLITICS AND GOVERNMENT",
+                "INCOME TAX"
+            ],
+            "org_facet": [
+                "SUITS AND LITIGATION (CIVIL)",
+                "FUTURE MOVEMENT (LEBANON)",
+                "SAUDI OGER LTD"
+            ],
+            "per_facet": [
+                "HARIRI, SAAD"
+            ],
+            "geo_facet": [
+                "BEIRUT (LEBANON)",
+                "CAPE TOWN (SOUTH AFRICA)",
+                "LEBANON",
+                "SEYCHELLES ISLANDS",
+                "SOUTH AFRICA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Prime Minister Saad Hariri of Lebanon in Beirut in August. He gave more than $16 million to a South African model who said they had a relationship.",
+                    "copyright": "Bilal Hussein/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/24/world/24Hariri1/24Hariri1-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/24/world/24Hariri1/24Hariri1-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/24/world/24Hariri1/24Hariri1-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/ee586cbc-42d5-54ad-90b0-4c7819ce8ac1"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/01/us/amber-guyger-trial-verdict-botham-jean.html",
+            "adx_keywords": "Police Brutality, Misconduct and Shootings;Murders, Attempted Murders and Homicides;Police Department (Dallas, Tex);Guyger, Amber (1988- );Jean, Botham Shem;Dallas (Tex)",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By MARINA TRAHAN MARTINEZ, SARAH MERVOSH and JOHN ELIGON",
+            "type": "Article",
+            "title": "Former Dallas Police Officer Is Guilty of Murder for Killing Her Neighbor",
+            "abstract": "Amber Guyger killed an unarmed black man, Botham Jean, in his own apartment on a different floor from hers. She faces up to 99 years in prison.",
+            "published_date": "2019-10-01",
+            "source": "The New York Times",
+            "id": 100000006743907,
+            "asset_id": 100000006743907,
+            "views": 9,
+            "des_facet": [
+                "POLICE BRUTALITY, MISCONDUCT AND SHOOTINGS",
+                "MURDERS, ATTEMPTED MURDERS AND HOMICIDES"
+            ],
+            "org_facet": [
+                "POLICE DEPARTMENT (DALLAS, TEX)"
+            ],
+            "per_facet": [
+                "GUYGER, AMBER (1988- )",
+                "JEAN, BOTHAM SHEM"
+            ],
+            "geo_facet": [
+                "DALLAS (TEX)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Amber Guyger shot her neighbor, Botham Jean, in his own home. She was convicted of murder on Tuesday and could face between five and 99 years in prison.",
+                    "copyright": "Pool photo by Tom Fox",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/30guyger/30guyger-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/30guyger/30guyger-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/30guyger/30guyger-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/2156cec9-000d-5c61-bf5f-bae2ce2bfe74"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/arts/television/best-movies-on-netflix.html",
+            "adx_keywords": "Netflix Inc;Movies;Video Recordings, Downloads and Streaming",
+            "column": "",
+            "section": "Arts",
+            "byline": "By JASON BAILEY",
+            "type": "Interactive",
+            "title": "The 50 Best Movies on Netflix Right Now",
+            "abstract": "We’ve plucked out the 50 best films currently streaming on Netflix in the United States. Take a look.",
+            "published_date": "2019-03-06",
+            "source": "The New York Times",
+            "id": 100000006330108,
+            "asset_id": 100000006330108,
+            "views": 10,
+            "des_facet": [
+                "MOVIES",
+                "VIDEO RECORDINGS, DOWNLOADS AND STREAMING"
+            ],
+            "org_facet": [
+                "NETFLIX INC"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Uma Thurman in “Pulp Fiction.”",
+                    "copyright": "Linda R. Chen/Miramax Films",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2016/06/19/watching/pulp-fiction-watching-recommendation/pulp-fiction-watching-recommendation-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/3769fe44-d294-5a71-8281-5220a39673bf"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/09/30/us/politics/trump-schiff-treason.html",
+            "adx_keywords": "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Schiff, Adam B;Trump, Donald J;Treason and Sedition;Impeachment",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By ANNIE KARNI and EILEEN SULLIVAN",
+            "type": "Article",
+            "title": "Trump Seeks Whistle-Blower’s Identity",
+            "abstract": "The president said he “deserved” to meet his accuser who filed a formal whistle-blower complaint after a call with Ukraine’s leader.",
+            "published_date": "2019-09-30",
+            "source": "The New York Times",
+            "id": 100000006743888,
+            "asset_id": 100000006743888,
+            "views": 11,
+            "des_facet": [
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "IMPEACHMENT"
+            ],
+            "org_facet": [
+                "TREASON AND SEDITION"
+            ],
+            "per_facet": [
+                "SCHIFF, ADAM B",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump in the Oval Office on Monday as his new labor secretary, Eugene Scalia, is sworn in.",
+                    "copyright": "Anna Moneymaker/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/30DCTRUMP-promo/30DCTRUMP-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/30DCTRUMP-promo/30DCTRUMP-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/us/30DCTRUMP-promo/30DCTRUMP-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/955cd63f-cf7c-583a-8aee-70d45a999acb"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/01/magazine/rachel-maddow-trump.html",
+            "adx_keywords": "Maddow, Rachel;MSNBC;Television;News and News Media;Liberalism (US Politics);Russian Interference in 2016 US Elections and Ties to Trump Associates;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;United States Politics and Government;Trump, Donald J",
+            "column": "Feature",
+            "section": "Magazine",
+            "byline": "By AMANDA HESS",
+            "type": "Article",
+            "title": "This Is the Moment Rachel Maddow Has Been Waiting For",
+            "abstract": "How the MSNBC host staked her show on Trump — and won the largest and most obsessive audience of her career.",
+            "published_date": "2019-10-01",
+            "source": "The New York Times",
+            "id": 100000006741655,
+            "asset_id": 100000006741655,
+            "views": 12,
+            "des_facet": [
+                "NEWS AND NEWS MEDIA",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "MSNBC",
+                "TELEVISION",
+                "LIBERALISM (US POLITICS)"
+            ],
+            "per_facet": [
+                "MADDOW, RACHEL",
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Christopher Griffith for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/06/magazine/06-mag-maddow-cover/06-mag-maddow-cover-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/06/magazine/06-mag-maddow-cover/06-mag-maddow-cover-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/06/magazine/06-mag-maddow-cover/06-mag-maddow-cover-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/98409742-7b8e-5406-bdef-333feaf75846"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html",
+            "adx_keywords": "Sex Crimes;Child Abuse and Neglect;Child Pornography;Computers and the Internet;Video Recordings, Downloads and Streaming;Facebook Inc;Google Inc;Microsoft Corp;Snap Inc",
+            "column": "",
+            "section": "U.S.",
+            "byline": "By MICHAEL H. KELLER and GABRIEL J.X. DANCE",
+            "type": "Interactive",
+            "title": "The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?",
+            "abstract": "Online predators create and share the illegal material, which is increasingly cloaked by technology. Tech companies, the government and the authorities are no match.",
+            "published_date": "2019-09-28",
+            "source": "The New York Times",
+            "id": 100000006740220,
+            "asset_id": 100000006740220,
+            "views": 13,
+            "des_facet": [
+                "SEX CRIMES",
+                "CHILD ABUSE AND NEGLECT",
+                "COMPUTERS AND THE INTERNET"
+            ],
+            "org_facet": [
+                "CHILD PORNOGRAPHY",
+                "VIDEO RECORDINGS, DOWNLOADS AND STREAMING",
+                "FACEBOOK INC",
+                "GOOGLE INC",
+                "MICROSOFT CORP",
+                "SNAP INC"
+            ],
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "These images are some of the 5.9 million found online last year by the Canadian Center for Child Protection. The photos are in a format analysts devised to protect the abused.",
+                    "copyright": "The Canadian Center for Child Protection",
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/28/multimedia/csam-promo/csam-hppromo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/28/multimedia/csam-promo/csam-hppromo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/28/multimedia/csam-promo/csam-hppromo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/793a48e8-9fac-5d98-848c-e1a3a9d8743e"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/10/04/us/politics/ukraine-text-messages-volker.html",
+            "adx_keywords": "",
+            "column": "",
+            "section": "U.S.",
+            "byline": "By CHARLIE SAVAGE and JOSH WILLIAMS",
+            "type": "Interactive",
+            "title": "Read the Text Messages Between U.S. and Ukrainian Officials",
+            "abstract": "The messages reveal new details about President Trump’s efforts to use American foreign policy to benefit himself.",
+            "published_date": "2019-10-04",
+            "source": "The New York Times",
+            "id": 100000006751782,
+            "asset_id": 100000006751782,
+            "views": 14,
+            "des_facet": "",
+            "org_facet": "",
+            "per_facet": "",
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": null,
+                    "copyright": null,
+                    "approved_for_syndication": 0,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/04/us/volker-ukraine-impeachment-document-promo-1570197638674/volker-ukraine-impeachment-document-promo-1570197638674-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/04/us/volker-ukraine-impeachment-document-promo-1570197638674/volker-ukraine-impeachment-document-promo-1570197638674-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/04/us/volker-ukraine-impeachment-document-promo-1570197638674/volker-ukraine-impeachment-document-promo-1570197638674-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/a0393209-4009-55b0-9b65-db972b3321c2"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/03/us/politics/trump-ukraine.html",
+            "adx_keywords": "Volker, Kurt D;Sondland, Gordon D (1957- );Ukraine;Zelensky, Volodymyr;Trump, Donald J;Giuliani, Rudolph W;Diplomatic Service, Embassies and Consulates;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;United States International Relations;United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;Burisma Holdings Ltd;Biden, Joseph R Jr;Biden, Hunter",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By KENNETH P. VOGEL and MICHAEL S. SCHMIDT",
+            "type": "Article",
+            "title": "Trump Envoys Pushed Ukraine to Commit to Investigating Biden",
+            "abstract": "Two American diplomats drafted a statement for Ukraine’s new leader that would have committed him publicly to the inquiries Mr. Trump has been seeking into political rivals.",
+            "published_date": "2019-10-03",
+            "source": "The New York Times",
+            "id": 100000006750917,
+            "asset_id": 100000006750917,
+            "views": 15,
+            "des_facet": [
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "UNITED STATES POLITICS AND GOVERNMENT"
+            ],
+            "org_facet": [
+                "DIPLOMATIC SERVICE, EMBASSIES AND CONSULATES",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "BURISMA HOLDINGS LTD"
+            ],
+            "per_facet": [
+                "VOLKER, KURT D",
+                "SONDLAND, GORDON D (1957- )",
+                "ZELENSKY, VOLODYMYR",
+                "TRUMP, DONALD J",
+                "GIULIANI, RUDOLPH W",
+                "BIDEN, JOSEPH R JR",
+                "BIDEN, HUNTER"
+            ],
+            "geo_facet": [
+                "UKRAINE"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Kurt D. Volker on Thursday on Capitol Hill.",
+                    "copyright": "Erin Schaff/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/multimedia/03diplosub2/03diplosub2-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/multimedia/03diplosub2/merlin_162084102_886077f7-125b-4840-a02b-3550539eca3c-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/multimedia/03diplosub2/merlin_162084102_886077f7-125b-4840-a02b-3550539eca3c-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/3de200b1-4bb8-5e0e-bdc4-3e07d21ceb2c"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/03/us/politics/trump-china-bidens.html",
+            "adx_keywords": "Trump, Donald J;China;United States International Relations;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Biden, Joseph R Jr;Presidential Election of 2020;Democratic Party;Republican Party",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By PETER BAKER and EILEEN SULLIVAN",
+            "type": "Article",
+            "title": "Trump Publicly Urges China to Investigate the Bidens",
+            "abstract": "President Trump made a similar, but private, request of the president of Ukraine, an episode that has prompted an impeachment inquiry.",
+            "published_date": "2019-10-03",
+            "source": "The New York Times",
+            "id": 100000006749616,
+            "asset_id": 100000006749616,
+            "views": 16,
+            "des_facet": [
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY"
+            ],
+            "org_facet": [
+                "PRESIDENTIAL ELECTION OF 2020",
+                "DEMOCRATIC PARTY",
+                "REPUBLICAN PARTY"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J",
+                "BIDEN, JOSEPH R JR"
+            ],
+            "geo_facet": [
+                "CHINA"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump walking to the South Lawn of the White House to address the news media on Thursday.",
+                    "copyright": "Pete Marovich for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/us/politics/03dc-prexy-promo/03dc-prexy-promo-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/us/politics/03dc-prexy-promo/03dc-prexy-promo-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/us/politics/03dc-prexy-promo/03dc-prexy-promo-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/49f7d071-f847-53e1-aed1-c1f1b1821910"
+        },
+        {
+            "url": "https://www.nytimes.com/interactive/2019/09/30/magazine/bill-maher-interview.html",
+            "adx_keywords": "Comedy and Humor;Social Media;Religion and Belief;Fox News Channel;Real Time With Bill Maher (TV Program);Maher, Bill",
+            "column": "Talk",
+            "section": "Magazine",
+            "byline": "By DAVID MARCHESE",
+            "type": "Interactive",
+            "title": "Bill Maher on the Perils of Political Correctness",
+            "abstract": "“Religions always talk about the one true religion. Now on the left we have the one true opinion.”",
+            "published_date": "2019-09-30",
+            "source": "The New York Times",
+            "id": 100000006740878,
+            "asset_id": 100000006740878,
+            "views": 17,
+            "des_facet": [
+                "COMEDY AND HUMOR",
+                "SOCIAL MEDIA"
+            ],
+            "org_facet": [
+                "RELIGION AND BELIEF",
+                "FOX NEWS CHANNEL"
+            ],
+            "per_facet": [
+                "MAHER, BILL"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Mamadi Doumbouya for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/06/magazine/06mag-talk-01/06mag-talk-01-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/06/magazine/06mag-talk-01/06mag-talk-01-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/06/magazine/06mag-talk-01/06mag-talk-01-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://interactive/97b803ac-8060-5b07-8a23-41947c6f7b4a"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/09/29/us/politics/tom-bossert-trump-ukraine.html",
+            "adx_keywords": "Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;United States Politics and Government;Russian Interference in 2016 US Elections and Ties to Trump Associates;United States International Relations;Presidential Election of 2016;Ethics and Official Misconduct;Whistle-Blowers;Impeachment;Ukraine;Zelensky, Volodymyr;Trump, Donald J;Biden, Joseph R Jr;Bossert, Thomas P;Democratic Party;Republican Party;House Committee on Intelligence",
+            "column": null,
+            "section": "U.S.",
+            "byline": "By SHERYL GAY STOLBERG, MAGGIE HABERMAN and PETER BAKER",
+            "type": "Article",
+            "title": "Trump Was Repeatedly Warned That Ukraine Conspiracy Theory Was ‘Completely Debunked’",
+            "abstract": "Thomas P. Bossert, President Trump’s first homeland security adviser, said he was “deeply disturbed” that Mr. Trump had urged Ukraine to investigate Democrats.",
+            "published_date": "2019-09-29",
+            "source": "The New York Times",
+            "id": 100000006742722,
+            "asset_id": 100000006742722,
+            "views": 18,
+            "des_facet": [
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES"
+            ],
+            "org_facet": [
+                "UNITED STATES INTERNATIONAL RELATIONS",
+                "PRESIDENTIAL ELECTION OF 2016",
+                "ETHICS AND OFFICIAL MISCONDUCT",
+                "WHISTLE-BLOWERS",
+                "IMPEACHMENT",
+                "DEMOCRATIC PARTY",
+                "REPUBLICAN PARTY",
+                "HOUSE COMMITTEE ON INTELLIGENCE"
+            ],
+            "per_facet": [
+                "ZELENSKY, VOLODYMYR",
+                "TRUMP, DONALD J",
+                "BIDEN, JOSEPH R JR",
+                "BOSSERT, THOMAS P"
+            ],
+            "geo_facet": [
+                "UKRAINE"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "Thomas P. Bossert called it “a bad day and a bad week for this president and for this country if he is asking for political dirt on an opponent.”",
+                    "copyright": "Tom Brenner for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/29/us/politics/29dc-bossert1-promo/29dc-bossert1-promo-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/29/us/politics/29dc-bossert1-promo/29dc-bossert1-promo-mediumThreeByTwo210-v3.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/29/us/politics/29dc-bossert1-promo/29dc-bossert1-promo-mediumThreeByTwo440-v3.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/e056214e-0fa0-51b7-8d90-b8c1bbdbfbd3"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/09/30/opinion/republicans-trump-impeachment.html",
+            "adx_keywords": "Presidential Election of 2016;Russian Interference in 2016 US Elections and Ties to Trump Associates;United States Politics and Government;Trump-Ukraine Whistle-Blower Complaint and Impeachment Inquiry;Psychology and Psychologists;Corruption (Institutional);Trump, Donald J;Republican Party;House of Representatives;Senate",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By PETER WEHNER",
+            "type": "Article",
+            "title": "What’s the Matter With Republicans?",
+            "abstract": "Trump has given them another chance to break away. Why won’t they take it?",
+            "published_date": "2019-09-30",
+            "source": "The New York Times",
+            "id": 100000006739125,
+            "asset_id": 100000006739125,
+            "views": 19,
+            "des_facet": [
+                "PRESIDENTIAL ELECTION OF 2016",
+                "RUSSIAN INTERFERENCE IN 2016 US ELECTIONS AND TIES TO TRUMP ASSOCIATES",
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "TRUMP-UKRAINE WHISTLE-BLOWER COMPLAINT AND IMPEACHMENT INQUIRY"
+            ],
+            "org_facet": [
+                "PSYCHOLOGY AND PSYCHOLOGISTS",
+                "CORRUPTION (INSTITUTIONAL)",
+                "REPUBLICAN PARTY",
+                "HOUSE OF REPRESENTATIVES",
+                "SENATE"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "President Trump greeted supporters outside the White House two days after House Democrats announced a formal impeachment inquiry.",
+                    "copyright": "Tom Brenner for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/opinion/30wehner/30wehner-thumbStandard-v2.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/opinion/30wehner/30wehner-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/09/30/opinion/30wehner/30wehner-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/63b35a76-041e-56d2-88ee-7ff3c7c0a0a3"
+        },
+        {
+            "url": "https://www.nytimes.com/2019/10/03/opinion/trump-voters.html",
+            "adx_keywords": "United States Politics and Government;Democratic Party;Presidential Election of 2020;Trump, Donald J",
+            "column": null,
+            "section": "Opinion",
+            "byline": "By DAVID BROOKS",
+            "type": "Article",
+            "title": "Why Trump Voters Stick With Him",
+            "abstract": "An imagined conversation with Flyover Man.",
+            "published_date": "2019-10-03",
+            "source": "The New York Times",
+            "id": 100000006749800,
+            "asset_id": 100000006749800,
+            "views": 20,
+            "des_facet": [
+                "UNITED STATES POLITICS AND GOVERNMENT",
+                "PRESIDENTIAL ELECTION OF 2020"
+            ],
+            "org_facet": [
+                "DEMOCRATIC PARTY"
+            ],
+            "per_facet": [
+                "TRUMP, DONALD J"
+            ],
+            "geo_facet": "",
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Anna Moneymaker/The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/opinion/03brooksWeb/03brooksWeb-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/opinion/03brooksWeb/03brooksWeb-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2019/10/03/opinion/03brooksWeb/03brooksWeb-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "uri": "nyt://article/fb59d37e-e129-5e71-bb35-9f631aee5131"
+        }
+    ]
+}
