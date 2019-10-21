@@ -15,7 +15,7 @@ let kSampleArticlePubDate = "2018-06-20"
 
 class TestPasingData: XCTestCase {
     
-    func parseEmptyNewsData() {
+    func testParseEmptyNewsData() {
         // giving empty data
         let data = Data()
         
