@@ -17,9 +17,8 @@ class TestPasingData: XCTestCase {
     
     func testParseEmptyNewsData() {
         // giving empty data
-        let data = Data()
         
-        testGetArticals(data: data) { (result) in
+        testGetArticals(data: nil) { (result) in
             XCTAssertEqual(result,.failure(.noDataAvilable))
         }
         

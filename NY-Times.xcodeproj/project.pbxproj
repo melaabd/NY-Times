@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		0F60E5B22348B0F8001C2EDF /* URLs.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F60E5B12348B0F8001C2EDF /* URLs.swift */; };
 		0FAA291723536CCB00D3D2A4 /* NY_TimesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FAA291623536CCB00D3D2A4 /* NY_TimesUITests.swift */; };
+		472CBE586742194A09FC8E4D /* Pods_NY_TimesUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 891CE2FC947377248E06D4AB /* Pods_NY_TimesUITests.framework */; };
 		52CB807EE6900B3BA61982F1 /* Pods_NY_Times.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 69CEE6BC15B225206B254BFC /* Pods_NY_Times.framework */; };
 		7C0B1DB7234B28440086627E /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C0B1DB6234B28440086627E /* Extensions.swift */; };
 		7C830C04234DB90000BFBA8A /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C830C03234DB90000BFBA8A /* DetailsVC.swift */; };
@@ -89,6 +90,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				472CBE586742194A09FC8E4D /* Pods_NY_TimesUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -270,6 +272,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0FAA291323536C1900D3D2A4 /* Build configuration list for PBXNativeTarget "NY-TimesUITests" */;
 			buildPhases = (
+				DDA0962ED2EF0EB706606D6B /* [CP] Check Pods Manifest.lock */,
 				0FAA290823536C1900D3D2A4 /* Sources */,
 				0FAA290923536C1900D3D2A4 /* Frameworks */,
 				0FAA290A23536C1900D3D2A4 /* Resources */,
@@ -449,6 +452,28 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NY-Times/Pods-NY-Times-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
+		DDA0962ED2EF0EB706606D6B /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-NY-TimesUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
@@ -524,6 +549,7 @@
 /* Begin XCBuildConfiguration section */
 		0FAA291423536C1900D3D2A4 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = E642BB6AC839A5B0C0ED405D /* Pods-NY-TimesUITests.debug.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -545,6 +571,7 @@
 		};
 		0FAA291523536C1900D3D2A4 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 69D16E79C17B4B14B794A1E3 /* Pods-NY-TimesUITests.release.xcconfig */;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
